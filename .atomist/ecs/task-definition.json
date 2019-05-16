@@ -1,0 +1,4 @@
+{
+  "taskRoleArn": "arn:aws:iam::247672886355:role/ecsTaskECRRead",
+  "executionRoleArn": "arn:aws:iam::247672886355:role/ecsTaskECRRead"
+}
