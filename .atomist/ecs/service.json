@@ -1,9 +1,0 @@
-{
-  "loadBalancers": [
-        {
-            "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:247672886355:targetgroup/apr15node/6d84ead4a11413b1",
-            "containerName": "may6node",
-            "containerPort": 8080
-        }
-   ]
-}
